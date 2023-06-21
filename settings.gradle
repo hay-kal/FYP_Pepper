@@ -17,3 +17,10 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FYP_Pepper"
 include ':app'
+include ':app:welcome'
+include ':app:feedback'
+include ':app:guidance'
+include ':app:faq'
+include ':app:lostnfound'
+include ':app:queue'
+include ':app:entertainment'

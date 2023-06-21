@@ -11,6 +11,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/entertainment" />
+            <option value="$PROJECT_DIR$/app/faq" />
+            <option value="$PROJECT_DIR$/app/feedback" />
+            <option value="$PROJECT_DIR$/app/guidance" />
+            <option value="$PROJECT_DIR$/app/lostnfound" />
+            <option value="$PROJECT_DIR$/app/queue" />
+            <option value="$PROJECT_DIR$/app/welcome" />
           </set>
         </option>
       </GradleProjectSettings>
